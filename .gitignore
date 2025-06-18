@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+tut_env/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+
+# Data & DB
+*.db
+/data/chroma_db/
